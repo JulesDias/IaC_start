@@ -55,7 +55,7 @@ name    =  "serveriacteam4" #add your team name to make it unique. Can only cons
 
 location    =  var.location 
 resource_group_name  =  var.rg_name  
-administrator_login   =  "administrator" 
+administrator_login   =  "administratorTeam4" 
 administrator_password =  "CoolPassword!!" 
  sku_name =  "B_Standard_B1ms" 
  version =  "8.0.21" 
